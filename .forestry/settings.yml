@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: dashboard
 webhook_url: 
 sections:
+- type: heading
+  label: Design
 - type: directory
   path: content/portfolio
   label: Portfolio
